@@ -8,10 +8,10 @@ Construccion desde cero de la base de datos para FastFood, una compañia de comi
 - Clausulas DDL, DML, DCL, TCL y T-SQL 
 - Consultas simples
 - Clausulas "Set", "Where", "Group By", "Having", "Order By"
--Uso de funciones de agregacion: SUM, AVERAGE, MIN, MAX, COUNT
--Uso de "Case"
--Joins: Inner Join, Left Join, Right Join
--Funciones de fecha: DATEDIFF, CONVERT, TODATE, DATEPART, YEAR, MONTH
--Subconsultas
--Funciones avanzadas: Variables, Vistas, Procedimientos almacenados indices y Triggers
--Optimizacion de consultas: SET STATISTICS IO ON
+- Uso de funciones de agregacion: SUM, AVERAGE, MIN, MAX, COUNT
+- Uso de "Case"
+- Joins: Inner Join, Left Join, Right Join
+- Funciones de fecha: DATEDIFF, CONVERT, TODATE, DATEPART, YEAR, MONTH
+- Subconsultas
+- Funciones avanzadas: Variables, Vistas, Procedimientos almacenados indices y Triggers
+- Optimizacion de consultas: SET STATISTICS IO ON
