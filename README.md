@@ -1,6 +1,6 @@
 # FastFood_DB
 
-Construccion desde cero de la base de datos para FastFood, una compañia de comida rapida. Luego de crear la base se cargan datos de prueba en la misma, los cuales permiten desarrollar consultas para responder a preguntas de negocios.
+Construccion desde cero de la base de datos para FastFood, una compañia de comida rapida. Luego de crear la base se cargaron datos de prueba en la misma, los cuales permitieron desarrollar consultas para responder a preguntas de negocios.
 
 ### Motor de bases de datos: SQL Server management studio
 
